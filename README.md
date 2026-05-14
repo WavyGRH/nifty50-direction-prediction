@@ -6,7 +6,7 @@ Predicting next-day close direction (up/down) of the NIFTY 50 index using a Ligh
 
 ```bash
 # 1. Clone and install
-git clone <repo-url>
+git clone https://github.com/WavyGRH/nifty50-direction-prediction.git
 cd nifty-direction-prediction
 pip install -r requirements.txt
 
